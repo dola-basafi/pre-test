@@ -1,0 +1,7 @@
+Tools Ticketing  
+- Trello -> ui simple/user frendly , focusnya ke satu halaman / single page, target untuk user umum 
+- Jira -> mirip dengan Trello tapi memilki fitur lebih lengkap dan terdapat beberapa product berbeda yang fiturnya di optimal kan ke user target tertentu misal sofware developer, business, etc 
+- youtrack -> paling berbeda dari yang lain , ui lebih rumit , tidak focus 1 halaman atau multipage, memiliki keyboard shortcut, target untu user sofware engineer 
+ 
+ 
+tool ticketing yang di adopsi oleh ticketing refactory adalah trello.
